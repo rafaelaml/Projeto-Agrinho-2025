@@ -2,3 +2,13 @@ img {
     width: 700;
     height: 600px;
 }
+
+/* Definir cor de fundo para toda a página */
+body {
+    background-color: #54ccfc; 
+}
+
+h1 {
+    background-color: rgba(52, 152, 219, 0.5);
+    color: rgb(6, 2, 248); 
+}
