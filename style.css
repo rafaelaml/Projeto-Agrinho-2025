@@ -11,4 +11,5 @@ body {
 h1 {
     background-color: rgba(52, 152, 219, 0.5);
     color: rgb(6, 2, 248); 
+    font-size: 40px;
 }
