@@ -13,3 +13,8 @@ h1 {
     color: rgb(6, 2, 248); 
     font-size: 40px;
 }
+
+img {
+    width: 600;
+    height: 500px;
+}
